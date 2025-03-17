@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Set Up User Roles & Permissions
 - Configure Users and Agents
-- Set Up User Roles & Permissions
+- Customize Ticket Fields & Help Topics
 - Secure the Installation
 - Configure SLA Plans
 
