@@ -314,6 +314,6 @@ Create a new Password Resset topic with a parent topic of report a problem and s
 
 </p>
 <p>
-Create a new Other topic with a parent topic of General Inquiry and save changes.
+To conclude this lab, create a new Other topic with a parent topic of General Inquiry and save changes.
 </p>
 <br /><p>
