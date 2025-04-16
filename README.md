@@ -63,7 +63,7 @@ Click on Permissions.
 
 </p>
 <p>
-We can see that there are no permissions selected.
+I can see that there are no permissions selected.
 </p>
 <br /><p>
 
@@ -80,7 +80,7 @@ Go back to Roles, click on Expanded Access and go to permissions.
 
 </p>
 <p>
-We can see that most of the permissions are selected.
+I can see that most of the permissions are selected.
 </p>
 <br /><p>
 
@@ -151,7 +151,7 @@ The online banking team has been successully added.
 
 </p>
 <p>
-Under the Settings tab, navigate to Users and make sure that the Registration Requiredbox isn't checked.
+Under the Settings tab, navigate to Users and make sure that the Registration Required box isn't checked.
 </p>
 <br /><p>
 
@@ -225,7 +225,8 @@ Created a new user to submit tickets as an end user by navigaing to http://local
 ![Screenshot 2025-03-09 014413](https://github.com/user-attachments/assets/3ea31509-05f2-4a92-9c0d-f81a3b0b6fd6)
 
 </p>
-<p>The new user Karen has been successully added.
+<p>
+  The new user Karen has been successully added.
 </p>
 <br /><p>
   
@@ -281,7 +282,7 @@ Navigate back to Help Topics under the Manage Tab and click on Add New Help Topi
 
 </p>
 <p>
-Create anew Business Critical Outage topic with a parent topic of report a problem and save the changes.
+Create a new Business Critical Outage topic with a parent topic of report a problem and save the changes.
 </p>
 <br /><p>
   
